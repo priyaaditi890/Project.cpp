@@ -380,16 +380,13 @@ int main()
 	cout<<"||            Shopping Club System                ||"<<endl;
 	gotoxy(17,9);
 	cout<<"--------------------------------------------------"<<endl;
-   	gotoxy(17,11);
-   	cout<<"|Subject Teacher ->> Mam Uzma <<-- |\n"<<endl;
+   	
+   
    	gotoxy(17,13);
    	cout<<">>>----Project Implemented By-----<<<"<<endl;
     gotoxy(22,15);
-   	cout<<"Abdullah Javed (7122)"<<endl;
-   	gotoxy(22,16);
-   	cout<<"Ahsan Siddiue  (7128)"<<endl;
-   	gotoxy(22,17);
-   	cout<<"Zahid Jabbar   (7127)"<<endl<<endl;
+   	cout<<"Aditi Priya "<<endl;
+	
 	system("pause");
 	system("cls");
 	system("color Fc"); 
